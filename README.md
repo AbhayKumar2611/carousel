@@ -2,7 +2,7 @@
 Welcome to **Image Slider**, a sleek and responsive image slider application built with **HTML**, **CSS**, **Tailwind CSS**, and **React**!. This app features smooth transitions, autoplay functionality, having indicators and navigation controls for an engaging user experience. 
 
 ## Demo Links :rocket:
-- Live Demo: [Watch Live](https://happycarousel.netlify.app/)
+- Live Demo: [Watch Live](https://happyimgslider.netlify.app/)
 
 ## Tech Stack used:
 - HTML
